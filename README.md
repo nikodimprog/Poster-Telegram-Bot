@@ -32,7 +32,7 @@
 7. Наблюдаем!
 
 
-1. Telegram Pro Poster
+1. Telegram Poster
 2. Deep automation of Telegram posts
 3.Open Source
 
@@ -53,3 +53,15 @@ You can manage an unlimited number of channels and connect an unlimited number o
 The bot uses the Telegram client and API, which means that you can copy posts even from closed channels.
 There is also a block list of words that can be replenished using commands in the bot.
 You can add your signature for each post.​
+
+
+Instructions:
+
+Setting up the config.py file
+1. Launch the bot
+2. Add it to our channels
+3. Subscribe to channels from where posts will be stolen
+4. Send the bot a message from our donor
+5. We customize the donor as we please
+6. Enable auto posting
+7. We are watching!
